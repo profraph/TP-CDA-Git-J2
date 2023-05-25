@@ -3,8 +3,5 @@
 ## Liste des groupes :
 |                |Membres                        |Lien du dépôt                                                | Thème du site |
 |----------------|-------------------------------|-------------------------------------------------------------|---------------|
-|Groupe 1        |Raphael                        |[lien](https://github.com/profraph/TP-CDA-Git-J2)            |               |
-|Groupe 1        |Raphael                        |[lien](https://github.com/profraph/TP-CDA-Git-J2)            |               |
-|Groupe 1        |Raphael                        |[lien](https://github.com/profraph/TP-CDA-Git-J2)            |               |
-|Groupe 2        |Jean, Philippe, Catherine      |[lien](https://google.com)                                   |Catalogue photos 
-| groupe 1       | Raphael,Dylan,Elhadji         |[lien]https://github.com/elhadjifall98/foxus.git             |jeu vidéo      |
+|Groupe 1        |Hafssa, Yasmina, Fatiha        |[lien](https://github.com/FATI-A/blog-voyage)                |blog de voyage |
+|Groupe 2        | Raphael,Dylan,Elhadji         |[lien]https://github.com/elhadjifall98/foxus.git             |jeu vidéo      |
