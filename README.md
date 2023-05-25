@@ -3,7 +3,7 @@
 ## Liste des groupes :
 |                |Membres                        |Lien du dépôt                                                | Thème du site |
 |----------------|-------------------------------|-------------------------------------------------------------|---------------|
-|Groupe 1        |Raphael                        |[lien](https://github.com/profraph/TP-CDA-Git-J2)            |               |
-|Groupe 2        |Raphael                        |[lien](https://github.com/profraph/TP-CDA-Git-J2)            |               |
-|Groupe 3        |Gisine, Josoa, Hédi            |[lien](https://github.com/Zinegi/Nike)                       |   Boutique    |
-|Groupe 4        |Jean, Philippe, Catherine      |[lien](https://google.com)                                   |Catalogue photos 
+|Groupe 1        |Hafssa, Yasmina, Fatiha        |[lien](https://github.com/FATI-A/blog-voyage)                |blog de voyage |
+|Groupe 2        |Raphael, Dylan, Elhadji        |[lien](https://github.com/elhadjifall98/foxus)               |jeu vidéo      |
+|Groupe 3        |Seny, Hajar, Thomas            |[lien](https://github.con/SenyJalloh/projetGithubSeny)       |Catalogue      |
+|Groupe 4        |Gisine, Josoa, Hédi            |[lien](https://github.com/Zinegi/Nike)                       |   Boutique    |
