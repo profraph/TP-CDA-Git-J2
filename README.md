@@ -4,3 +4,4 @@
 |                |Membres                        |Lien du dépôt                                                | Thème du site |
 |----------------|-------------------------------|-------------------------------------------------------------|---------------|
 |Groupe 1        |Hafssa, Yasmina, Fatiha        |[lien](https://github.com/FATI-A/blog-voyage)                |blog de voyage |
+|Groupe 2        |Seny, Hajar, Thomas        |[lien](https://github.con/SenyJalloh/projetGithubSeny               |Catalogue |
