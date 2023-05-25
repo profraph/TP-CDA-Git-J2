@@ -3,4 +3,4 @@
 ## Liste des groupes :
 |                |Membres                        |Lien du dépôt                                                | Thème du site |
 |----------------|-------------------------------|-------------------------------------------------------------|---------------|
-|Groupe 1        |hafssa, yasmina, fatiha        |[lien](https://github.com/FATI-A/blog-voyage)                |blog de voyage |
+|Groupe 1        |Hafssa, Yasmina, Fatiha        |[lien](https://github.com/FATI-A/blog-voyage)                |blog de voyage |
